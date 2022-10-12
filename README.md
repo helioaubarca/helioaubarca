@@ -7,7 +7,7 @@
   <img width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helioaubarca&layout=compact&hide_border=true&theme=dracula" />
 </div>
 
-##
+![](https://i.imgur.com/waxVImv.png)
 
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -25,7 +25,7 @@
  
   </div>
 
-##
+![](https://i.imgur.com/waxVImv.png)
 
 ![Contribuition](https://activity-graph.herokuapp.com/graph?username=helioaubarca&theme=dracula&hide_border=true&area=true)
 
