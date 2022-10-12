@@ -1,4 +1,4 @@
-### Olá! Sou o Vinicius, mas você pode me chamar de HV
+# Olá! Sou o Vinicius, mas você pode me chamar de HV
 
 ## 
 
@@ -29,5 +29,18 @@
 
 ![Contribuition](https://activity-graph.herokuapp.com/graph?username=helioaubarca&theme=dracula&hide_border=true&area=true)
 
-##
+![](https://i.imgur.com/waxVImv.png)
+
+# Hi! My name is Helio but you can refer to me as HV.
+
+I'm (soon to be) a front-end developer. For a few months now I've been studying heavily and decided to share my projects on GitHub.
+
+I look for a job opportunity, be that a internship or junior, I'm ready for both. 
+
+If that's any interesting, I also happen to love everything related to marketing and I take some extra hours each week so I can study (as of now, copywriting is my focus).
+
+JavaScript, HTML and CSS are my main skills, but I do have some knowledge on Salesforce(apex obviously included) and UI design.
+17:24
+
+
 
