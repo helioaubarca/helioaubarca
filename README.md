@@ -40,7 +40,6 @@ I look for a job opportunity, be that a internship or junior, I'm ready for both
 If that's any interesting, I also happen to love everything related to marketing and I take some extra hours each week so I can study (as of now, copywriting is my focus).
 
 JavaScript, HTML and CSS are my main skills, but I do have some knowledge on Salesforce(apex obviously included) and UI design.
-17:24
 
 
 
